@@ -100,3 +100,6 @@ hal deploy apply
 
 
 copied from https://github.com/justmeandopensource/kubernetes/blob/master/docs/setup-spinnaker.md
+
+https://www.youtube.com/watch?v=9EUyMjR6jSc&ab_channel=JustmeandOpensource
+
